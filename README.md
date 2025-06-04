@@ -1,4 +1,4 @@
-# Code & Coffee with Chamath
+# Code & Coffee with Chamath Dilshan
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/33/21/67/332167f548b3afb5e8d2f43e21d39c57.jpg" 
