@@ -1,19 +1,55 @@
-# The Future in Tech
+# Tech Horizons with Chamath
+<img src="https://media.licdn.com/dms/image/v2/D5603AQHo9Fq8nydryA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725553224006?e=1754524800&v=beta&t=9j89qWVDFk31whoRb3nEsdROGL8FyQ3ZYvmIsgfRBn8" width="250">
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+[Tech Horizons](https://go.chamath.dev/tech-horizons) is a cutting-edge weekly podcast series hosted by **Chamath Dilshan**, a passionate technologist and innovation enthusiast. Connect with Chamath on [LinkedIn](https://www.linkedin.com/in/chamathdilsahnc/).
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+🎙️ **New episodes drop every Tuesday at 3pm EST, 12pm PST** - Available on all major podcast platforms and [streaming live](https://go.chamath.dev/live-stream).
 
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
+## What We Explore
+Tech Horizons dives deep into the rapidly evolving landscape of modern technology, featuring conversations that matter for today's developers, entrepreneurs, and tech professionals. We explore emerging trends, breakthrough innovations, and the human stories behind revolutionary technologies.
 
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
+### Featured Topics:
+- **AI & Machine Learning** - From GPT models to computer vision breakthroughs
+- **Cloud & DevOps** - Kubernetes, serverless architectures, and infrastructure automation
+- **Web3 & Blockchain** - DeFi, NFTs, and decentralized applications
+- **Cybersecurity** - Zero-trust architectures and threat intelligence
+- **Developer Experience** - Tools, frameworks, and productivity hacks
+- **Tech Leadership** - Career growth and team management in tech
 
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
+## Guest Spotlight
+Our guests include visionary leaders, startup founders, and technical experts from companies like:
+- **Meta** • **Google** • **Amazon** • **Microsoft** • **Netflix**
+- **OpenAI** • **Anthropic** • **Stripe** • **Vercel** • **Supabase**
+- Plus innovative startups and open-source maintainers shaping the future
+
+We discuss their journeys, technical challenges, industry insights, and practical advice for navigating the ever-changing tech ecosystem.
 
 ---
-## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+
+## Connect & Subscribe
+
+### 🎧 Listen Everywhere
+- [Apple Podcasts](https://go.chamath.dev/apple-podcasts)
+- [Spotify](https://go.chamath.dev/spotify)
+- [Google Podcasts](https://go.chamath.dev/google-podcasts)
+- [RSS Feed - Full Episodes](https://go.chamath.dev/rss-feed)
+- [RSS Feed - Audio Only](https://go.chamath.dev/audio-feed)
+
+### 📺 Watch & Engage
+- [YouTube Channel](https://go.chamath.dev/youtube)
+- [Live Stream Schedule](https://go.chamath.dev/live-stream)
+- [Episode Archive](https://go.chamath.dev/episodes)
+
+### 📬 Stay Updated
+- [Weekly Newsletter](https://go.chamath.dev/newsletter) - Get episode highlights, tech news, and exclusive content
+- [Discord Community](https://go.chamath.dev/discord) - Join discussions with fellow tech enthusiasts
+- [Twitter Updates](https://go.chamath.dev/twitter) - Real-time episode updates and tech insights
+
+### 🔗 Professional Network
+- [Chamath's LinkedIn](https://www.linkedin.com/in/chamathdilsahnc/)
+- [Tech Horizons LinkedIn Page](https://go.chamath.dev/linkedin-page)
+- [Guest Nomination Form](https://go.chamath.dev/nominate-guest)
+
+---
+
+*Empowering the next generation of tech innovators through authentic conversations and actionable insights.*
