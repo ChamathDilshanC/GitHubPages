@@ -1,58 +1,55 @@
 # Code & Coffee with Chamath
 
-[Code & Coffee](https://go.chamath.dev/podcast) is a dynamic weekly developer podcast hosted by **Chamath Dilshan**, a passionate software engineer and full-stack developer. Follow Chamath's journey on [LinkedIn](https://www.linkedin.com/in/chamathdilsahnc/) and [Facebook](https://www.facebook.com/chamath.colonne.9).
-
-🚀 **Fresh episodes every Wednesday at 7pm EST, 4pm PST** - Perfect for your evening coding sessions!
-
-
 <div align="center">
   <img src="https://i.pinimg.com/736x/33/21/67/332167f548b3afb5e8d2f43e21d39c57.jpg" 
        width="250" 
        alt="Code & Coffee Podcast Artwork"
        style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</div>
-
-<div align="center">
   
-  [![Podcast](https://img.shields.io/badge/🎙️-Listen%20Now-blue?style=for-the-badge)](https://go.chamath.dev/podcast)
+  <br><br>
+  
+  [![Website](https://img.shields.io/badge/🌐-Visit%20Website-brightgreen?style=for-the-badge)](https://chamathdilshanc.github.io/GitHubPages/)
+  [![Podcast](https://img.shields.io/badge/🎙️-Listen%20Now-blue?style=for-the-badge)](https://chamathdilshanc.github.io/GitHubPages/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamathdilsahnc/)
   [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/chamath.colonne.9)
   
-</div>
-
----
-
-<div align="center">
-  <h2>🚀 Fresh episodes every Wednesday at 7pm EST, 4pm PST</h2>
+  <h3>🚀 Fresh episodes every Wednesday at 7pm EST, 4pm PST</h3>
   <p><em>Perfect for your evening coding sessions!</em></p>
 </div>
 
-## What We Build & Explore
+---
 
-From late-night debugging sessions to breakthrough moments, Code & Coffee brings you real developer stories, practical coding insights, and the latest tools that make our lives easier.
+## 👨‍💻 About the Host
+
+**Chamath Dilshan** is a passionate software engineer and full-stack developer who brings real-world coding experience to every conversation. From late-night debugging sessions to breakthrough moments, Code & Coffee delivers practical insights that matter to developers.
 
 <div align="center">
   
-### 💻 Core Focus Areas
+### 💻 Tech Stack & Focus Areas
 
-| Frontend | Backend | Full-Stack | Tools |
-|----------|---------|------------|-------|
-| ⚛️ React | 🟢 Node.js | 🔗 APIs | 🛠️ VS Code |
-| 💚 Vue.js | 🐍 Python | 📱 Mobile | 🐙 Git |
-| 🅰️ Angular | ☕ Java | 🌐 Web Apps | 🐳 Docker |
+| Frontend | Backend | Full-Stack | DevOps |
+|----------|---------|------------|--------|
+| ⚛️ React | 🟢 Node.js | 🔗 REST APIs | 🐳 Docker |
+| 💚 Vue.js | 🐍 Python | 📱 Mobile Apps | ☸️ Kubernetes |
+| 🅰️ Angular | ☕ Java | 🌐 PWAs | 🔧 CI/CD |
+| 📱 React Native | 🏗️ .NET | 🎯 GraphQL | ☁️ AWS |
 
 </div>
 
-## 🎯 Recent Episodes
+---
+
+## 🎯 Latest Episodes
 
 <div align="center">
   
-| Episode | Topic | Duration |
-|---------|-------|----------|
-| 🎬 EP 001 | "From Bootcamp to Big Tech" | 45 min |
-| 🚀 EP 002 | "Building Your First SaaS" | 52 min |
-| 🌟 EP 003 | "Open Source Contributions" | 38 min |
-| 💼 EP 004 | "Remote Work Setup" | 41 min |
+| Episode | Topic | Duration | Listen |
+|---------|-------|----------|--------|
+| 🎬 **EP 004** | "Remote Work Setup for Developers" | 41 min | [🎧 Play](https://chamathdilshanc.github.io/GitHubPages/) |
+| 🌟 **EP 003** | "Contributing to Open Source Projects" | 38 min | [🎧 Play](https://chamathdilshanc.github.io/GitHubPages/) |
+| 🚀 **EP 002** | "Building Your First SaaS Application" | 52 min | [🎧 Play](https://chamathdilshanc.github.io/GitHubPages/) |
+| 💼 **EP 001** | "From Bootcamp to Big Tech Companies" | 45 min | [🎧 Play](https://chamathdilshanc.github.io/GitHubPages/) |
+
+[📺 **View All Episodes**](https://chamathdilshanc.github.io/GitHubPages/)
 
 </div>
 
@@ -60,54 +57,90 @@ From late-night debugging sessions to breakthrough moments, Code & Coffee brings
 
 <div align="center">
   
-## 🎧 Listen Everywhere
+## 🎧 Listen on Your Favorite Platform
 
-[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://go.chamath.dev/apple)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://go.chamath.dev/spotify)
-[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://go.chamath.dev/google)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://go.chamath.dev/youtube)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
 
-</div>
-
----
-
-<div align="center">
-  
-## 💬 Join the Developer Community
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://go.chamath.dev/discord)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://go.chamath.dev/reddit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://go.chamath.dev/twitter)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://go.chamath.dev/github)
-
-**2000+ developers** already joined our community!
+[![RSS Feed](https://img.shields.io/badge/RSS-Feed-orange?style=for-the-badge&logo=rss&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/feed.xml)
+[![Pocket Casts](https://img.shields.io/badge/Pocket_Casts-F43E37?style=for-the-badge&logo=pocket-casts&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 📊 Podcast Stats
+## 🚀 What We Explore
 
-![Downloads](https://img.shields.io/badge/Downloads-50K+-green?style=flat-square)
-![Rating](https://img.shields.io/badge/Rating-4.8%2F5-yellow?style=flat-square)
-![Episodes](https://img.shields.io/badge/Episodes-25+-blue?style=flat-square)
-![Countries](https://img.shields.io/badge/Countries-40+-red?style=flat-square)
+From debugging challenges to career growth, Code & Coffee covers the topics that matter most to modern developers:
 
-</div>
+### 🔥 Core Topics
+- **Frontend Development** - React, Vue, Angular, and modern JavaScript
+- **Backend Engineering** - Node.js, Python, Java, and microservices
+- **Full-Stack Projects** - End-to-end application development
+- **Developer Tools** - IDEs, productivity tools, and workflow optimization
+- **Career Growth** - From junior to senior developer journeys
+- **Open Source** - Contributing to and maintaining projects
+- **Remote Work** - Building effective home development environments
+
+### 🎤 Guest Spotlight
+We feature conversations with:
+- **Senior Engineers** from top tech companies
+- **Startup Founders** building the next big thing
+- **Open Source Maintainers** creating tools we use daily
+- **Career Changers** who successfully transitioned into tech
+- **Indie Developers** building profitable side projects
 
 ---
 
 <div align="center">
   
+## 💬 Join Our Developer Community
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://chamathdilshanc.github.io/GitHubPages/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamathdilshanc)
+
+### 📊 Community Stats
+
+![Members](https://img.shields.io/badge/Community-2000+%20Developers-success?style=flat-square)
+![Downloads](https://img.shields.io/badge/Downloads-50K+-brightgreen?style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-4.8⭐-yellow?style=flat-square)
+![Countries](https://img.shields.io/badge/Listeners-40+%20Countries-blue?style=flat-square)
+
+</div>
+
+---
+
 ## 🛠️ Resources & Tools
 
-| Category | Links |
-|----------|-------|
-| 📚 Learning | [Recommended Tools](https://go.chamath.dev/tools) • [Code Snippets](https://go.chamath.dev/snippets) |
-| 🎯 Community | [Project Showcase](https://go.chamath.dev/showcase) • [Guest Stories](https://go.chamath.dev/guests) |
-| 📬 Updates | [Newsletter](https://go.chamath.dev/newsletter) • [RSS Feed](https://go.chamath.dev/rss) |
+<div align="center">
+  
+| 📚 Learning Resources | 🎯 Community Features | 📬 Stay Connected |
+|----------------------|----------------------|------------------|
+| [Recommended Tools](https://chamathdilshanc.github.io/GitHubPages/) | [Project Showcase](https://chamathdilshanc.github.io/GitHubPages/) | [Weekly Newsletter](https://chamathdilshanc.github.io/GitHubPages/) |
+| [Code Snippets](https://chamathdilshanc.github.io/GitHubPages/) | [Guest Stories](https://chamathdilshanc.github.io/GitHubPages/) | [Episode Updates](https://chamathdilshanc.github.io/GitHubPages/) |
+| [Coding Tutorials](https://chamathdilshanc.github.io/GitHubPages/) | [Live Coding Sessions](https://chamathdilshanc.github.io/GitHubPages/) | [RSS Feed](https://chamathdilshanc.github.io/GitHubPages/feed.xml) |
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🌟 Featured Content
+
+### 🎬 Latest Video Series
+- **"Setting up the Perfect Dev Environment"** - Complete workflow setup
+- **"Building a Full-Stack App from Scratch"** - React + Node.js tutorial
+- **"Git Workflows for Teams"** - Collaboration best practices
+
+### 📝 Popular Blog Posts
+- [**"10 VS Code Extensions Every Developer Needs"**](https://chamathdilshanc.github.io/GitHubPages/)
+- [**"Debugging Like a Pro: Advanced Techniques"**](https://chamathdilshanc.github.io/GitHubPages/)
+- [**"Career Advice for Self-Taught Developers"**](https://chamathdilshanc.github.io/GitHubPages/)
 
 </div>
 
@@ -117,58 +150,32 @@ From late-night debugging sessions to breakthrough moments, Code & Coffee brings
   
 ### 💡 *"Building better software, one line of code at a time. Let's debug the future together!"*
 
-<img src="https://github.com/chamathdilshan/chamathdilshan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&theme=react-dark&hide_border=true)](https://github.com/chamathdilshanc)
 
 </div>
 
 ---
 
 <div align="center">
-## Join the Developer Community
+  
+## 🤝 Get Involved
 
-### 🎧 Stream Anywhere
-- [Apple Podcasts](https://go.chamath.dev/apple)
-- [Spotify](https://go.chamath.dev/spotify) 
-- [Google Podcasts](https://go.chamath.dev/google)
-- [Pocket Casts](https://go.chamath.dev/pocket-casts)
-- [RSS Feed](https://go.chamath.dev/rss) - For your favorite podcast app
+### Want to be a guest? Have a story to share?
 
-### 🖥️ Watch & Code Along
-- [YouTube Channel](https://go.chamath.dev/youtube) - Full episodes + coding tutorials
-- [Twitch Live Coding](https://go.chamath.dev/twitch) - Build projects together
-- [GitHub Repository](https://go.chamath.dev/github) - All episode code samples
+[![Be a Guest](https://img.shields.io/badge/🎤-Be%20a%20Guest-success?style=for-the-badge)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Suggest Topic](https://img.shields.io/badge/💡-Suggest%20Topic-blue?style=for-the-badge)](https://chamathdilshanc.github.io/GitHubPages/)
+[![Sponsor](https://img.shields.io/badge/❤️-Sponsor%20Show-red?style=for-the-badge)](https://chamathdilshanc.github.io/GitHubPages/)
 
-### 💬 Developer Community
-- [Discord Server](https://go.chamath.dev/discord) - Chat with 2000+ developers
-- [Reddit Community](https://go.chamath.dev/reddit) - Share projects and get feedback
-- [Developer Newsletter](https://go.chamath.dev/newsletter) - Weekly coding tips and resources
+### ⭐ Star this repo if you enjoy the podcast!
 
-### 🌐 Connect & Collaborate
-- [Chamath's LinkedIn](https://www.linkedin.com/in/chamathdilsahnc/) - Professional updates
-- [Facebook Page](https://www.facebook.com/chamath.colonne.9) - Behind-the-scenes content
-- [Twitter](https://go.chamath.dev/twitter) - Quick coding tips and episode updates
-- [Stack Overflow](https://go.chamath.dev/stackoverflow) - Help solve coding problems
+[![GitHub followers](https://img.shields.io/github/followers/chamathdilshanc?label=Follow&style=social)](https://github.com/chamathdilshanc)
+[![GitHub stars](https://img.shields.io/github/stars/chamathdilshanc/GitHubPages?style=social)](https://github.com/chamathdilshanc/GitHubPages)
+[![GitHub forks](https://img.shields.io/github/forks/chamathdilshanc/GitHubPages?style=social)](https://github.com/chamathdilshanc/GitHubPages)
 
-### 🛠️ Resources & Tools
-- [Recommended Tools List](https://go.chamath.dev/tools) - Curated developer resources
-- [Code Snippets Collection](https://go.chamath.dev/snippets) - Useful code templates
-- [Project Showcase](https://go.chamath.dev/showcase) - Community-built applications
-- [Guest Application](https://go.chamath.dev/be-guest) - Share your developer story
+</div>
 
 ---
 
-*"Building better software, one line of code at a time. Let's debug the future together!"*
-
-### 🎯 Recent Episode Highlights:
-- **"From Bootcamp to Big Tech"** - Landing your first developer job
-- **"Building Your First SaaS"** - 0 to 1000 users in 90 days  
-- **"Open Source Contributions"** - Getting started with GitHub projects
-- **"Remote Work Setup"** - The perfect home office for developers
-
-  
-**⭐ Star this repo if you enjoy the podcast!**
-
-[![GitHub followers](https://img.shields.io/github/followers/chamathdilshan?label=Follow&style=social)](https://github.com/chamathdilshan)
-[![GitHub stars](https://img.shields.io/github/stars/chamathdilshan/chamathdilshan?style=social)](https://github.com/chamathdilshan/chamathdilshan)
-
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/chamathdilshanc">Chamath Dilshan</a> • Last updated: December 2024</sub>
 </div>
